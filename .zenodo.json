@@ -11,3 +11,13 @@
     "access_right": "open",
     "notes": "Specific TensorFlow versions can be found in the \"Versions\" list on the right side of this page.<br>See the full list of authors <a href=\"https://github.com/tensorflow/tensorflow/graphs/contributors\">on GitHub</a>."
 }
+{
+    "_comment": "I can write anything here, but it will be ignored by Zenodo. This is useful for adding notes to the metadata file.",
+    "keywords": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "neural networks",
+        "tensorflow"
+    ]   
+}
